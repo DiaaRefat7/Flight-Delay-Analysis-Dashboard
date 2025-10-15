@@ -76,7 +76,7 @@ The **Flight Delay Analysis Dashboard** explores flight performance across U.S. 
 ![Tooltip](images/tooltip.png)
 
 ---
-![Tooltip](images/[Drill throw.png])
+![Tooltip](images/Drillthrow.png)
 
 ## 📁 Dataset
 The dataset simulates U.S. flight records, including flight delays, carriers, and causes, to analyze operational patterns and performance.
